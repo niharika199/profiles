@@ -1,0 +1,23 @@
+---
+lockfile_version: 1
+depends:
+- name: directory_create
+  resolved_source:
+    path: "/root/directory_create"
+  version_constraints: "[]"
+- name: plugin-jenkins
+  resolved_source:
+    path: "/root/plugin-jenkins"
+  version_constraints: "[]"
+- name: jenkins-config
+  resolved_source:
+    path: "/root/jenkins-config"
+  version_constraints: "[]"
+- name: jenkins-job
+  resolved_source:
+    path: "/root/jenkins-job"
+  version_constraints: "[]"
+- name: deinge-users
+  resolved_source:
+    path: "/root/deinge-users"
+  version_constraints: "[]"
