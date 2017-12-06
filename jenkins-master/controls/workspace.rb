@@ -1,4 +1,5 @@
 include_controls 'directory_create'
+include_controls 'gem_install'
 require_controls 'plugin-jenkins' do
 control 'test'
 end

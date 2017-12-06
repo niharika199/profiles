@@ -10,6 +10,9 @@ depends:
   - name: directory_create
     path: /root/directory_create
 
+  - name: gem_install
+    path: /root/gem_install
+
   - name: plugin-jenkins 
     path: /root/plugin-jenkins 
 

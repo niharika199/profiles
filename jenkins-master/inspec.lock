@@ -5,6 +5,10 @@ depends:
   resolved_source:
     path: "/root/directory_create"
   version_constraints: "[]"
+- name: gem_install
+  resolved_source:
+    path: "/root/gem_install"
+  version_constraints: "[]"
 - name: plugin-jenkins
   resolved_source:
     path: "/root/plugin-jenkins"
