@@ -1,0 +1,19 @@
+---
+lockfile_version: 1
+depends:
+- name: dotchef
+  resolved_source:
+    path: "/root/dashboard/dotchef"
+  version_constraints: ">= 0"
+- name: gem
+  resolved_source:
+    path: "/root/dashboard/gem"
+  version_constraints: ">= 0"
+- name: dengine_users
+  resolved_source:
+    path: "/root/dashboard/dengine_users"
+  version_constraints: ">= 0"
+- name: webserver
+  resolved_source:
+    path: "/root/dashboard/webserver"
+  version_constraints: ">= 0"
